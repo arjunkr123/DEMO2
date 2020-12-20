@@ -357,7 +357,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/pagetech cover.jpg") top center no-repeat;
+  background: url("../img/pagetech03-home.jpg") top center no-repeat;
   background-size: cover;
   position: relative;
   padding-top: 82px;
@@ -486,7 +486,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #c01010;
+  background: #3f0303;
   min-height: 40px;
   margin-top: 82px;
   color: #fff;
@@ -625,7 +625,7 @@ section {
 
 .about .icon-boxes .icon-box i {
   font-size: 40px;
-  color: #e03a3c;
+  color: #3a0506;
   margin-bottom: 10px;
 }
 
@@ -857,7 +857,7 @@ section {
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #e03a3c;
+  background: #490405;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1220,7 +1220,7 @@ section {
   border-radius: 50px;
   width: 36px;
   height: 36px;
-  background: #e03a3c;
+  background: #460203;
   display: inline-block;
   transition: ease-in-out 0.3s;
   color: #fff;
@@ -1745,7 +1745,7 @@ section {
 }
 
 .blog .blog-comments .comment h5 a:hover {
-  color: #e03a3c;
+  color: #300304;
 }
 
 .blog .blog-comments .comment h5 .reply {
@@ -1818,7 +1818,7 @@ section {
 }
 
 .blog .blog-comments .reply-form .btn-primary:hover {
-  background-color: #e03a3c;
+  background-color: #330203;
 }
 
 .blog .blog-pagination {
@@ -1848,8 +1848,8 @@ section {
 }
 
 .blog .blog-pagination li.active, .blog .blog-pagination li:hover {
-  background: #e03a3c;
-  border: 1px solid #e03a3c;
+  background: #300304;
+  border: 1px solid #310304;
 }
 
 .blog .blog-pagination li.active a, .blog .blog-pagination li:hover a {
@@ -1910,7 +1910,7 @@ section {
   font-size: 16px;
   padding: 0 15px;
   margin: -1px;
-  background: #e03a3c;
+  background: #310303;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
@@ -1934,7 +1934,7 @@ section {
 }
 
 .blog .sidebar .categories ul a:hover {
-  color: #e03a3c;
+  color: #310405;
 }
 
 .blog .sidebar .categories ul a span {
@@ -1964,7 +1964,7 @@ section {
 }
 
 .blog .sidebar .recent-posts h4 a:hover {
-  color: #e03a3c;
+  color: #3f0304;
 }
 
 .blog .sidebar .recent-posts time {
