@@ -1254,7 +1254,7 @@ section {
 .team .member .social {
     position: absolute;
     left: 0;
-    top: 50%;
+    top: 10%;
     right: 0;
     opacity: 0;
     background: #460203;
@@ -1263,30 +1263,56 @@ section {
     transform: rotateY(180deg);
 }
 
-.team .member .social a {
+.team .member .member-info1 {
+    text-align: center;
+    padding-top: 5px;
+}
+
+.team .member .member-info1 a {
     transition: color 0.3s;
-    color: #ece1e1;
-    margin: 10px 3px;
+    color: #460203;
+    margin: 2px 1px;
     padding-top: 7px;
     border-radius: 50px;
     width: 36px;
     height: 36px;
-    background: #b94345;
+    background: #ffffff;
     display: inline-block;
+    text-align: center;
+    align-items: center;
     transition: ease-in-out 0.3s;
-    color: #fff;
 }
 
-.team .member .social a:hover {
-    background: #fff;
-    color: rgb(201, 30, 30);
+.team .member .member-info1 a:hover {
+    background: #460203;
+    color: rgb(255, 255, 255);
 }
 
-.team .member .social a .fa {
-    line-height: 36px;
+.team .member .member-info1 h4 {
+    font-weight: 700;
+    margin-bottom: 5px;
+    font-size: 18px;
+    color: #000000;
+    text-align: center;
 }
 
-.team .member .social i {
+.team .member .member-info1 span {
+    display: block;
+    font-size: 13px;
+    font-weight: 400;
+    color: #050505;
+    text-align: center;
+}
+
+.team .member .member-info1 p {
+    font-style: italic;
+    font-size: 14px;
+    line-height: 26px;
+    color: #777777;
+    text-align: center;
+}
+
+.team .member .member-info1 i {
     font-size: 18px;
 }
 
